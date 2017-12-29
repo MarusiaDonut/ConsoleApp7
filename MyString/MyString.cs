@@ -8,7 +8,7 @@ namespace My
 {
     public class MyString
     {
-
+        //класс
        public char[] str;
 
         public int getLength()
